@@ -10,3 +10,15 @@ Step 1 :- Go to the official site and download the git.(Now the question rise wh
 
 Step 2 :- After downloading the Git please install it in your system or PC (Personal Computer)
 
+Step 3 :- Go to the folder which you want to push to the Github . 
+
+Step 4 :- Open any shell, Command Prompt , Terminal in the same directory which you want to push .
+
+     For example :- You want to push D:/projects/python 
+     
+     You want to push the python folder all the stuff. 
+     
+     Open the command prompt or shell in the same directory . 
+     
+     The path should be like D:/projects/python 
+     
