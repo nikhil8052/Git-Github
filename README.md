@@ -14,13 +14,13 @@ Step 3 :- Go to the folder which you want to push to the Github .
 
 Step 4 :- Open any shell, Command Prompt , Terminal in the same directory which you want to push .
 
-     For example :- You want to push **D:/projects/python **
+     For example :- You want to push  D:/projects/python 
      
      You want to push the python folder all the stuff. 
      
      Open the command prompt or shell in the same directory . 
      
-     The path should be like **D:/projects/python **
+     The path should be like  D:/projects/python 
      
     Step 5 :- Set up your own account in the Git.
           Follow these steps. 
