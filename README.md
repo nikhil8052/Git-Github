@@ -8,3 +8,5 @@ Step 1 :- Go to the official site and download the git.(Now the question rise wh
 
 # Download git https://git-scm.com/downloads
 
+Step 2 :- After downloading the Git please install it in your system or PC (Personal Computer)
+
