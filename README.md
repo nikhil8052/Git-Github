@@ -1,6 +1,7 @@
 # learn-git-and-github (Nikhil Docs )
 
-Written by :- Nikhil 
+Written by :- Nikhil
+
 Date :- 24 JULY 2022 
 
 Hi Guys , here I have explained how can you install Git in your local system and can push your code to the github . Here I will be explaining you.
