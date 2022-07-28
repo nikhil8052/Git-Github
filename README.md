@@ -27,7 +27,7 @@ Step 4 :- Open any shell, Command Prompt , Terminal in the same directory which 
      
      The path should be like  D:/projects/python 
      
-    Step 5 :- Set up your own account in the Git.
+Step 5 :- Set up your own account in the Git.
           Follow these steps. 
           
           git --global config.name "Enter your name "
@@ -43,6 +43,45 @@ Step 4 :- Open any shell, Command Prompt , Terminal in the same directory which 
           For example 
           
           git --global config.email "nikhilkumarnk0805@gmail.com"
+          
+Step 6 :- Set up the authentication on the git-hub account and your local you can watch any video on youtube for better understanding.
+              
+          Search :- How to set up authentication on github account?? How to push changes after creating accout??
+          
+Step 7 :- Create a New repository on the GitHub.It's very easy to create new repository on Github.
+
+Step 8 :- Open any terminal or for betterment open the Visual Studio Code (Recommended).
+
+Step 9 :- Clone your current Repository (Use :- git clone https://github.com/nikhil8052/learn-git-and-github (URL of remote repository.))
+
+Step 10 :- Start writing code or adding files to the current location folder in your loacal. 
+
+Step 11 :- Intialize the git on the current location using
+        
+          git init 
+          
+Step 12 :- Check the status (You can learn about status and git staging area from Google and YouTube.)
+       
+         git status 
+         
+Step 13 :- Add the files which needs to be pushed using 
+
+           git add <filename> <folder name>
+           
+           git add . (for adding all the files and folders of the current directory.)
+           
+ Step 14:- Commit your changes (Commit is nothing but saving your changes so that git can know you are ready with your stuff.)
+ 
+            git commit -m "Commit Message"
+            
+            Commit Message is nothing but the message which gives you information about your commit like why are you committing this change , What new things you are 
+            adding or overall message of your commit.
+            
+            here -m stands for the (Commit Message).
+            
+ 
+              
+ 
           
          
     
